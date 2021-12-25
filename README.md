@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Gabriel Boeni
 
 - 👨‍💻 I’m currently working on front end development and studying computer science
-- 💻 I’m currently learning HTML,CSS,JS
+- 💻 I’m currently practicing HTML,CSS,JS
 - 📫 How to reach me: gmail: gabrielboeni23@gmail.com or linkedin: Gabriel Boeni de Oliveira
 - 😄 Pronouns: he/him
 
