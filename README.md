@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Rafa-pic" height="240" width="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/fc/58/eb/fc58eb460b5dafec7c91a23252a78fee.gif">
+    <img align="right" alt="Booeni-pic" height="200" width="310" style="border-radius:50px;" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
 </div>
   
   ##
