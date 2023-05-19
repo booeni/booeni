@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently working on front end development and studying computer science
 - 💻 I’m currently practicing web development, java and python
-- 📫 How to reach me: gmail: gabrielboeni23@gmail.com or linkedin: Gabriel Boeni de Oliveira
+- 📫 How to reach me: linkedin: Gabriel Boeni de Oliveira
 - 😄 Pronouns: he/him
 
 <div align="center">
